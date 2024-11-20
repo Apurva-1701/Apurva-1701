@@ -1,4 +1,4 @@
-## Hi there 👋
+# 🔍 Hunting Threats, Securing Systems 
 
 # Welcome to My Cybersecurity Hub 👋  
 
@@ -7,11 +7,6 @@
 - 🔍 Exploring offensive security techniques through ethical hacking and CTF challenges.  
 
 # Welcome to My Cybersecurity Hub 👋  
-
-![Cybersecurity Banner](https://via.placeholder.com/800x200?text=Cybersecurity+Hub)  
-*A space to showcase my journey in fortifying systems and exploring ethical hacking.*
-
-------
 
 ## Skills and Technologies  
 
