@@ -6,12 +6,6 @@
 - 🌟 Experienced in fortifying systems, analyzing vulnerabilities, and building security tools.  
 - 🔍 Exploring offensive security techniques through ethical hacking and CTF challenges.  
 
-## Skills and Technologies  
-- **Programming:** Python, Bash, PowerShell  
-- **Tools:** Wireshark, Nmap, Metasploit, Burp Suite  
-- **Defensive:** SIEM, IDS/IPS, Vulnerability Management  
-- **Offensive:** Penetration Testing, Exploit Development  
-
 # Welcome to My Cybersecurity Hub 👋  
 
 ![Cybersecurity Banner](https://via.placeholder.com/800x200?text=Cybersecurity+Hub)  
