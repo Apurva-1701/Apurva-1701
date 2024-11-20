@@ -17,13 +17,7 @@
 ![Cybersecurity Banner](https://via.placeholder.com/800x200?text=Cybersecurity+Hub)  
 *A space to showcase my journey in fortifying systems and exploring ethical hacking.*
 
----
-
-🔒 **Cybersecurity Enthusiast | Defensive and Offensive Security**  
-- 🌟 Experienced in fortifying systems, analyzing vulnerabilities, and building security tools.  
-- 🔍 Exploring offensive security techniques through ethical hacking and CTF challenges.  
-
----
+------
 
 ## Skills and Technologies  
 
