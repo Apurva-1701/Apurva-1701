@@ -6,8 +6,6 @@
 - 🌟 Experienced in fortifying systems, analyzing vulnerabilities, and building security tools.  
 - 🔍 Exploring offensive security techniques through ethical hacking and CTF challenges.  
 
-# Welcome to My Cybersecurity Hub 👋  
-
 ## Skills and Technologies  
 
 ### Programming Languages  
