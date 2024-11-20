@@ -41,7 +41,7 @@
 
 ### 🚩 **CTF Writeups**  
 ![CTF Icon](https://via.placeholder.com/400x100?text=TryHackMe+and+Hack+The+Box+Writeups)  
-- Documenting challenges from platforms like **TryHackMe**, **Hack The Box**, and **OverTheWire**.  
+- Documenting challenges from platforms like **Hack A Roo**
 
 ---
 
