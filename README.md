@@ -45,13 +45,6 @@
 
 ---
 
-### 🛡 **Defensive Projects**  
-- **SIEM Data Analysis**  
-  - Analyzed mock attack data using Splunk and Elastic Stack.  
-  - Visualized threats through interactive dashboards.  
-  ![Dashboard Example](https://via.placeholder.com/400x200?text=Sample+Dashboard)  
-
----
 
 ## 🚀 Future Projects  
 Here’s what I’m working on next:  
